@@ -3,5 +3,6 @@
 
 
  <p align="center"> 
-<img width="236" height="221" alt="2d9c4f31cf6646effc2d6e081a10d4d4-1421415468-removebg-preview" src="https://github.com/user-attachments/assets/8ca4ccbd-8cb7-4cc1-a56b-61e75163f8ac" />
+<img width="236" height="221" alt="image" src="https://github.com/user-attachments/assets/d1d785b9-3c7b-43ff-80ae-955356bd5729" />
+
 
