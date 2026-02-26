@@ -14,7 +14,7 @@
 often afk / with friends on ponytown,
 
  <p align="center"> 
-im very shy and not great at talking, it's nothing personal :-(
+i'm very shy and not great at talking . . .
 
  <p align="center"> 
 regardless, feel free to interact !
@@ -24,4 +24,6 @@ regardless, feel free to interact !
 
 
 <p align="center">
+   <img width="60" height="30" alt="image" src="https://github.com/user-attachments/assets/17d6be9d-10ff-4c69-aa02-8f8a9fe1ae96" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d05868ef-4d18-4a86-bcd7-7061e8ca9c19" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/653782ee-f7eb-4052-82a5-0f609747ff3c" />
